@@ -1,7 +1,0 @@
-Print "Welcome to Oblivion"
-Devs = "Ardgold & Tempo"
-
-# This is the beginning of the code
-DateTime = (%s/%s/%s %s:%s:%s) % (now.month, now.day, now.year, now.hour, now.minute, now.second)
-Print "You are in a room black as pitch. You hear a scream off in the distance; lights flicker on and illuminate the room you are in. What will you do?"
-
